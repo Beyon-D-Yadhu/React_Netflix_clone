@@ -9,7 +9,7 @@ lerna-debug.log*
 
 .env
 
-src/Requests.js
+src/Request.js
 
 node_modules
 dist
